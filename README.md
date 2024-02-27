@@ -1,0 +1,1 @@
+Explore the world of SQL with this folder, which covers essential database querying skills. From basic SELECT statements to advanced JOIN operations, this section provides a solid foundation for working with relational databases. Includes hands-on exercises using popular database management systems.
